@@ -1,0 +1,15 @@
+body {
+	background-image: url(../../img/arepaConCazón.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+h1, li, h2 {
+    color: #FFF;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+}
+
+a {
+    color: #FFF;
+}
